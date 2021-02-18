@@ -1,0 +1,6 @@
+
+create project
+add project in git
+commit changes
+branch merge
+
